@@ -1,0 +1,6 @@
+*.IB filter=lfs diff=lfs merge=lfs -text
+*.SB filter=lfs diff=lfs merge=lfs -text
+*.GM filter=lfs diff=lfs merge=lfs -text
+*.FM filter=lfs diff=lfs merge=lfs -text
+*.FD filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
